@@ -1,10 +1,10 @@
-Sociobook
+**Sociobook**
 🧩 Project Description
 
 Sociobook is a beginner-friendly front-end project that replicates the look and feel of Facebook’s interface using HTML, CSS, and JavaScript.
 It was built to improve understanding of layout design, styling, and basic interactivity in front-end development.
 
-✨ Features
+****✨ Features**
 
 📱 Responsive layout — adapts to different screen sizes just like Facebook
 
@@ -19,7 +19,7 @@ It was built to improve understanding of layout design, styling, and basic inter
 💅 Clean CSS styling for realistic UI design
 
 
-🚀 How to Run
+**🚀 How to Run**
 
 Clone the repository or download the ZIP file
 
@@ -37,12 +37,11 @@ Creating a simulated user login page
 
 Implementing a working comment and notification system
 
-🌍 Live Demo
-
+****🌍 Live Demo**
 Check out the project here:
 👉 Sociobook Live Demo
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Abdurrahman Muhammad Bello
 GitHub: https://github.com/Abdulrahmanvisit
