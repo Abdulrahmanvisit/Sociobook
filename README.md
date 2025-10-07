@@ -37,7 +37,8 @@ Creating a simulated user login page
 
 Implementing a working comment and notification system
 
- Live Demo
+🌍 Live Demo
+
 Check out the project here:
 👉 Sociobook Live Demo
 
