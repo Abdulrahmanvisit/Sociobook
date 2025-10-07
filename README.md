@@ -4,7 +4,7 @@ Sociobook
 Sociobook is a beginner-friendly front-end project that replicates the look and feel of Facebook’s interface using HTML, CSS, and JavaScript.
 It was built to improve understanding of layout design, styling, and basic interactivity in front-end development.
 
-✨ Features**
+✨ Features
 
 📱 Responsive layout — adapts to different screen sizes just like Facebook
 
@@ -19,7 +19,7 @@ It was built to improve understanding of layout design, styling, and basic inter
 💅 Clean CSS styling for realistic UI design
 
 
-🚀 How to Run**
+🚀 How to Run
 
 Clone the repository or download the ZIP file
 
@@ -29,7 +29,7 @@ Use your browser to explore the layout and interactive features
 
 Try the dark/light mode switch to see theme changes in action 🌗
 
-🔧 Future Improvements**
+🔧 Future Improvements
 
 Adding dynamic content rendering (e.g., fetching posts)
 
