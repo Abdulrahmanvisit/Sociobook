@@ -25,9 +25,9 @@ Future Improvements
 * User login simulation
 * More interactive features like comments or notifications
 
-  ## Live Demo
-https://Abdulrahmanvisit.github.io/facebook-clone/
+Live Demo
 
+    You can view the project live here: Facebook Clone Live Demo(https://Abdulrahmanvisit.github.io/facebook-clone/)
 
 Author
 
