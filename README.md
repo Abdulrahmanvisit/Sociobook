@@ -27,7 +27,7 @@ Future Improvements
 
 Live Demo
 
-    You can view the project live here: Facebook Clone Live Demo(https://Abdulrahmanvisit.github.io/facebook-clone/)
+https://Abdulrahmanvisit.github.io/facebook-clone/
 
 Author
 
