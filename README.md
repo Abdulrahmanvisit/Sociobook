@@ -1,4 +1,4 @@
-# Facebook Clone
+# Sociobook
 
 ## Project Description
 A beginner-friendly front-end project replicating Facebook’s interface using HTML, CSS, and JavaScript.  
