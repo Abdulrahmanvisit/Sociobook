@@ -1,29 +1,48 @@
-# Sociobook
+Sociobook
+🧩 Project Description
 
-## Project Description
-A beginner-friendly front-end project replicating Facebook’s interface using HTML, CSS, and JavaScript.  
-Built as a practice project to improve layout design, styling, and basic interactivity.
+Sociobook is a beginner-friendly front-end project that replicates the look and feel of Facebook’s interface using HTML, CSS, and JavaScript.
+It was built to improve understanding of layout design, styling, and basic interactivity in front-end development.
 
-## Features
-- Responsive homepage layout similar to Facebook
-- Navigation bar with interactive elements
-- Post section with static content
-- Styled using CSS for layout and visual appearance
-- Basic JavaScript interactivity (e.g., like buttons, input fields)
+✨ Features
 
-## How to Run
-1. Clone the repository or download the ZIP file
-2. Open `index.html` in your browser
-3. Explore the layout and interactive elements
+📱 Responsive layout — adapts to different screen sizes just like Facebook
 
-## Future Improvements
-- Dynamic content rendering
-- User login simulation
-- More interactive features like comments or notifications
+🧭 Navigation bar with interactive elements
 
-## Live Demo
-You can view the project live here: [Sociobook Live Demo](https://Abdulrahmanvisit.github.io/Sociobook/)
+📰 Post section displaying static posts for layout demonstration
 
-## Author
-**Abdurrahman Muhammad Bello**  
-GitHub: [https://github.com/Abdulrahmanvisit](https://github.com/Abdulrahmanvisit)
+🎨 Dark/Light Mode Toggle — switch themes instantly using the on/off button
+
+💬 Basic JavaScript Interactivity — buttons, inputs, and hover effects
+
+💅 Clean CSS styling for realistic UI design
+
+
+🚀 How to Run
+
+Clone the repository or download the ZIP file
+
+Open the folder and double-click index.html
+
+Use your browser to explore the layout and interactive features
+
+Try the dark/light mode switch to see theme changes in action 🌗
+
+🔧 Future Improvements
+
+Adding dynamic content rendering (e.g., fetching posts)
+
+Creating a simulated user login page
+
+Implementing a working comment and notification system
+
+🌍 Live Demo
+
+Check out the project here:
+👉 Sociobook Live Demo
+
+👨‍💻 Author
+
+Abdurrahman Muhammad Bello
+GitHub: https://github.com/Abdulrahmanvisit
