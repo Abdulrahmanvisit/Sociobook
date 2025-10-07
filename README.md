@@ -22,7 +22,7 @@ Built as a practice project to improve layout design, styling, and basic interac
 - More interactive features like comments or notifications
 
 ## Live Demo
-You can view the project live here: [Facebook Clone Live Demo](https://Abdulrahmanvisit.github.io/facebook-clone/)
+You can view the project live here: [Facebook Clone Live Demo](https://Abdulrahmanvisit.github.io/Sociobook/)
 
 ## Author
 **Abdurrahman Muhammad Bello**  
